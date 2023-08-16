@@ -1,16 +1,19 @@
-### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Syafiq Umam Azmi**.
+
+Saya bertanggung jawab pada kualitas materi Cloud Computing dengan dibekali [sertifikasi dari Chairos Academy](https://drive.google.com/file/d/1AOYJCU5sVlmd-L2RSftu6p-U_A4vBE70/view).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/syafiq-umam/)ku ya.
+
+
+- 🌱 I’m currently learning on [STTB](https://sttbandung.ac.id/).
 <!--
-**syafiquz/syafiquz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
